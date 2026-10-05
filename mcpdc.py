@@ -22,7 +22,7 @@ lyrics = [
     (19.8,"PLEASE"),
     (20.6,"DON'T"),
     (21.4,"CALL"),
-    (22,"@jaspaoo")
+    (22,"@jaspaooo")
 ]
 
 # Snowflakes
